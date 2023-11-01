@@ -59,7 +59,7 @@ transcript: A transcript of the talk.
 
 After evaluating multiple regression models on the dataset, Lesso Regressor perform better than other models. They have higher R2 scores, lower error metrics, and can generalize well on unseen data.
 
-#### Linear regression:-\n
+#### Linear regression:-
 Testing data R2 and Adjusted R2 Score :-
 R2 : 0.8523169024894983
 
