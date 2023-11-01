@@ -10,28 +10,48 @@ The main objective is to build a predictive model, which could help in predictin
 Description:-
 
 talk_id: A unique identifier for each TED Talk video.
+
 title: The title of the talk.
+
 speaker_1: The primary speaker for the talk.
+
 all_speakers: A list of all the speakers for the talk.
+
 occupations: The occupations of the speakers.
+
 about_speakers: Information about the speakers, such as their backgrounds and expertise.
+
 views: The number of views the video has received.
+
 recorded_date: The date the talk was recorded.
+
 published_date: The date the talk was published on the TED Talks YouTube channel.
+
 event: The name of the TED event where the talk was given.
+
 native_lang: The language the talk was given in.
+
 available_lang: The languages the talk is available in.
+
 duration: The length of the video.(in sec.)
+
 topics: The topics covered in the talk.
+
 related talks: Other TED Talks that are related to this talk.
+
 url: The URL of the video.
+
 description: A brief description of the talk.
+
 transcript: A transcript of the talk.
 
 Models Used :-
 1.Linear Regression
+
 2.Lesso Regression
+
 3.Ridge Regression
+
 4.Elastic Regression
 
 Conclusion :-
@@ -41,7 +61,11 @@ After evaluating multiple regression models on the dataset, Lesso Regressor perf
 Linear regression:-
 Testing data R2 and Adjusted R2 Score :-
 R2 : 0.8523169024894983
+
 Adjusted R2 : 0.8492758091044686
+
 MSE : 658217.0845519548
+
 RMSE : 811.3057897931918
+
 Mean absolute error : 0.3152605977097896
